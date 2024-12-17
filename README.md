@@ -18,6 +18,7 @@ const addSum = (a, b) => {
 <ul>- `j` - Flytta ner</ul>
 <ul>-`k`- Flytta upp</ul>
 
+Här är lite [^1] text.
 [^1]: Teknisk term
 
 
