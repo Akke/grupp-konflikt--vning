@@ -41,3 +41,7 @@ Här är lite [^1] text.
     "country": "Sweden",
 }
 ```
+
+~~The world is flat.~~ We now know that the world is round.
+
+
