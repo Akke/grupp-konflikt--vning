@@ -16,3 +16,6 @@
 
 ![Image of the project UI](./imageprojectui.png)
 
+1. steg 1
+2. steg 2
+3. steg 3
