@@ -22,6 +22,11 @@ Här är lite [^1] text.
 [^1]: Teknisk term
 
 
+# Uppgiftslista
+-[] Gör uppgift 1
+-[] Gör uppgift 2
+
+
 
 ![Image of the project UI](./imageprojectui.png)
 
