@@ -1,7 +1,7 @@
 # grupp-konflikt--vning
 # Rubrik nivå 1
 
-
+[GOOGLE](https://www.google.se/)
 
 *KURSIVERAD TEXT*
 
@@ -11,4 +11,7 @@
 <ul></ul>
 <ul></ul>
 
+
+
+![Image of the project UI](./imageprojectui.png)
 
