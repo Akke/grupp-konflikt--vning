@@ -18,7 +18,7 @@ const addSum = (a, b) => {
 <ul>- `j` - Flytta ner</ul>
 <ul>-`k`- Flytta upp</ul>
 
-[^1]: "Teknisk term"
+[^1]: Teknisk term
 
 
 
