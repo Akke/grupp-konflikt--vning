@@ -12,6 +12,7 @@
 <ul>- `j` - Flytta ner</ul>
 <ul>-`k`- Flytta upp</ul>
 
+<footer>"Teknisk term"</footer>
 
 
 ![Image of the project UI](./imageprojectui.png)
