@@ -2,7 +2,7 @@
 > Målet med den här övningen är att vi ska lära oss att skriva i vim och lösa konflikter.
 # Rubrik nivå 1
 
-### Rubrik med ID {#hello-world}
+<h3 id="hello-world">Rubrik med ID</h3>
 [Den här går till headern](#hello-world)
 ``
 const addSum = (a, b) => {
