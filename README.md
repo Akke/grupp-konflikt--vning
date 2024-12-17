@@ -7,10 +7,10 @@
 *KURSIVERAD TEXT*
 
 **Detta är en fetstilad text.**
-
-<ul></ul>
-<ul></ul>
-<ul></ul>
+# Funktioner
+<ul>-`h`- Flytta vänster</ul>
+<ul>- `j` - Flytta ner</ul>
+<ul>-`k`- Flytta upp</ul>
 
 
 
