@@ -7,3 +7,4 @@
 
 **Detta är en fetstilad text.**
 
+![Image of the project UI](./imageprojectui.png)
