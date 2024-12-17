@@ -26,8 +26,10 @@ const addSum = (a, b) => {
 2. steg 2
 3. steg 3
 
+```json
 {
     "name": "John Doe",
     "age": 5,
     "country": "Sweden",
 }
+```
