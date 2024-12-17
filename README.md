@@ -13,10 +13,12 @@ const addSum = (a, b) => {
 *KURSIVERAD TEXT*
 
 **Detta är en fetstilad text.**
+# Funktioner
+<ul>-`h`- Flytta vänster</ul>
+<ul>- `j` - Flytta ner</ul>
+<ul>-`k`- Flytta upp</ul>
 
-<ul></ul>
-<ul></ul>
-<ul></ul>
+[^1]:"Teknisk term"
 
 
 
