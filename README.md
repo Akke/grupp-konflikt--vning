@@ -18,7 +18,8 @@ const addSum = (a, b) => {
 <ul>- `j` - Flytta ner</ul>
 <ul>-`k`- Flytta upp</ul>
 
-<footer>"Teknisk term"</footer>
+[^1]:"Teknisk term"
+
 
 
 ![Image of the project UI](./imageprojectui.png)
