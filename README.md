@@ -12,7 +12,7 @@ const addSum = (a, b) => {
 }
 ``
 
-X^2^
+X<sup>2</sup>
 
 Gone camping! :tent: Be back soon.
 That is so funny! :joy:
