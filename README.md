@@ -25,3 +25,5 @@ const addSum = (a, b) => {
 1. steg 1
 2. steg 2
 3. steg 3
+
+![glad!](https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/00-Blog_Thinkstock_Images/emoji-marketing.png?width=893&height=600&name=emoji-marketing.png)
