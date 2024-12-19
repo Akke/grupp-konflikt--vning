@@ -86,6 +86,9 @@ Hello World
 Test
 : Test!!!
 
+Verfierar koden
+
+
 Vad är den vattenpartiekl? Jo, det är: H~2~O
 
 >>>>>>> 8377a24d8b746ddc727c1a6fb01eac16a13dc236
