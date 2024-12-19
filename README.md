@@ -70,6 +70,7 @@ Another one
 
 Hello World
 : En standardtext som utvecklare oftast skriver
+: Ett "template" kan man säga
 
 Test
 : Test!!!
