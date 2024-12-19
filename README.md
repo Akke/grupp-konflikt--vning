@@ -12,7 +12,7 @@ const addSum = (a, b) => {
 }
 ``
 
-X^blubb^
+X^2^
 
 Gone camping! :tent: Be back soon.
 That is so funny! :joy:
