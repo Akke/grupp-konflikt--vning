@@ -58,4 +58,9 @@ Här är lite [^1] text.
 | Paragraph | Text        |
 Another one
 
-<font color="red">Det här är en röd text!</font>
+<font color="red">Det här är en röd text!</font
+
+- [x] mata katten
+- [ ] ta katten till veterinären
+- [ ] töm kattlådan
+- [ ] mata katten
