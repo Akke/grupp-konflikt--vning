@@ -12,6 +12,11 @@ const addSum = (a, b) => {
 }
 ``
 
+X<sup>2</sup>
+
+Gone camping! :tent: Be back soon.
+That is so funny! :joy:
+
 [GOOGLE](https://www.google.se/)
 
 *KURSIVERAD TEXT*
@@ -29,13 +34,18 @@ Här är lite [^1] text.
 -[] Gör uppgift 1
 -[] Gör uppgift 2
 
-
+{
+    "name": "Pelle"
+}
 
 ![Image of the project UI](./imageprojectui.png)
 
 1. steg 1
 2. steg 2
 3. steg 3
+
+
+![glad!](https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/00-Blog_Thinkstock_Images/emoji-marketing.png?width=893&height=600&name=emoji-marketing.png)
 
 ```json
 {
@@ -62,3 +72,20 @@ Blank line before...
 ...and after.
 
  
+<font color="red">Det här är en röd text!</font>
+
+- [x] mata katten
+- [ ] ta katten till veterinären
+- [ ] töm kattlådan
+- [ ] mata katten
+
+Hello World
+: En standardtext som utvecklare oftast skriver
+: Ett "template" kan man säga
+
+Test
+: Test!!!
+
+Vad är den vattenpartiekl? Jo, det är: H~2~O
+
+>>>>>>> 8377a24d8b746ddc727c1a6fb01eac16a13dc236
