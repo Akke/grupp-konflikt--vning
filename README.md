@@ -48,4 +48,7 @@ Här är lite [^1] text.
 
 ~~The world is flat.~~ We now know that the world is round.
 
-
+| Syntax    | Description |
+| ------    | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
