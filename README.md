@@ -14,6 +14,9 @@ const addSum = (a, b) => {
 
 blubb
 
+Gone camping! :tent: Be back soon.
+That is so funny! :joy:
+
 [GOOGLE](https://www.google.se/)
 
 *KURSIVERAD TEXT*
