@@ -25,7 +25,6 @@ const addSum = (a, b) => {
 Här är lite [^1] text.
 [^1]: Teknisk term
 
-
 # Uppgiftslista
 -[] Gör uppgift 1
 -[] Gör uppgift 2
@@ -61,4 +60,5 @@ Blank line before...
 ---
 
 ...and after.
+
  
