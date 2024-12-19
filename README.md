@@ -56,3 +56,4 @@ Här är lite [^1] text.
 | Paragraph | Text        |
 Another one
 
+<font color="red">Det här är en röd text!</font>
