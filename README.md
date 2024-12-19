@@ -61,7 +61,7 @@ Här är lite [^1] text.
 | Paragraph | Text        |
 Another one
 
-<font color="red">Det här är en röd text!</font
+<font color="red">Det här är en röd text!</font>
 
 - [x] mata katten
 - [ ] ta katten till veterinären
@@ -70,6 +70,9 @@ Another one
 
 Hello World
 : En standardtext som utvecklare oftast skriver
+: Ett "template" kan man säga
 
 Test
 : Test!!!
+
+Vad är den vattenpartiekl? Jo, det är: H~2~O
