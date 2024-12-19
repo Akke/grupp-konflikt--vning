@@ -52,7 +52,7 @@ Här är lite [^1] text.
 
 
 ![glad!](https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/00-Blog_Thinkstock_Images/emoji-marketing.png?width=893&height=600&name=emoji-marketing.png)
-källa: <sup>https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/00-Blog_Thinkstock_Images/emoji-marketing.png?width=893&height=600&name=emoji-marketing.pn ^[[86;6u^[[86;6u^V^[[86;6u^</sup>
+källa: <sup>https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/00-Blog_Thinkstock_Images/emoji-marketing.png?width=893&height=600&name=emoji-marketing.pn</sup>
 
 
 ```json
