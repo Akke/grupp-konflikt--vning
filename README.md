@@ -30,7 +30,9 @@ Här är lite [^1] text.
 -[] Gör uppgift 1
 -[] Gör uppgift 2
 
-
+{
+    "name": "Pelle"
+}
 
 ![Image of the project UI](./imageprojectui.png)
 
