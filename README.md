@@ -50,3 +50,11 @@ Här är lite [^1] text.
 
 Another one
 
+Horizontal Rule:
+
+Blank line before...
+
+---
+
+...and after.
+ 
