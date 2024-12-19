@@ -80,6 +80,7 @@ Blank line before...
 
 ...and after.
 
+ Verifierad
  
 <font color="red">Det här är en röd text!</font>
 
@@ -104,4 +105,5 @@ Vad är den vattenpartiekl? Jo, det är: H~2~O
 Hejsan hejsan!
 
 
+>>>>>>> 2048b5dffa5d77e0c0843ea9dd73dd69086ce85b
 
